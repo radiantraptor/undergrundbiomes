@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:red_granite_cobble",
+  "result": {
+    "id": "undergroundbiomes:red_granite_cobble_wall",
+    "count": 1
+  }
+}

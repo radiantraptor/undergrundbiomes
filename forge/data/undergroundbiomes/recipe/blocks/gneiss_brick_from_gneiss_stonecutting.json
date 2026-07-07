@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:gneiss",
+  "result": {
+    "id": "undergroundbiomes:gneiss_brick",
+    "count": 1
+  }
+}

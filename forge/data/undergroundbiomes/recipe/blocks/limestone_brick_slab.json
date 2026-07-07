@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:limestone_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:limestone_brick_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:black_granite"
+  },
+  "result": {
+    "id": "undergroundbiomes:black_granite_stairs",
+    "count": 4
+  }
+}

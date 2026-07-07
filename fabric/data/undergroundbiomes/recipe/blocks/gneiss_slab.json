@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:gneiss"
+  },
+  "result": {
+    "id": "undergroundbiomes:gneiss_slab",
+    "count": 6
+  }
+}

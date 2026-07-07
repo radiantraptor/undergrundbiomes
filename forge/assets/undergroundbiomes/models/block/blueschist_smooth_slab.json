@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "undergroundbiomes:block/blueschist_smooth",
+      "side": "undergroundbiomes:block/blueschist_smooth_slab_side",
+      "top": "undergroundbiomes:block/blueschist_smooth"
+    }
+}

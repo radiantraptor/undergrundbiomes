@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:soapstone_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:soapstone_cobble_button",
+    "count": 1
+  }
+}

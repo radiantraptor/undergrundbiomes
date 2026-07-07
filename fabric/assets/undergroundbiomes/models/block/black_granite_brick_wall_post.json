@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "particle": "undergroundbiomes:block/black_granite_brick",
+    "wall": "undergroundbiomes:block/black_granite_brick"
+  }
+}

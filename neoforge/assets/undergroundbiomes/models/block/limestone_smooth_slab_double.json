@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "undergroundbiomes:block/limestone_smooth",
+      "side": "undergroundbiomes:block/limestone_smooth_slab_side"
+    }
+} 

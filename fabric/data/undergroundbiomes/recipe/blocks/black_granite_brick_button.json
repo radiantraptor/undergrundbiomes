@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:black_granite_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:black_granite_brick_button",
+    "count": 1
+  }
+}

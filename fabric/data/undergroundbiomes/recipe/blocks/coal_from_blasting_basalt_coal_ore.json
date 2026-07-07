@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 0.1,
+  "group": "coal",
+  "ingredient": "undergroundbiomes:basalt_coal_ore",
+  "result": {
+    "id": "minecraft:coal"
+  }
+}

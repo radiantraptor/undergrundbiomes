@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:dolomite_brick",
+  "result": {
+    "id": "undergroundbiomes:dolomite_brick_slab",
+    "count": 2
+  }
+}

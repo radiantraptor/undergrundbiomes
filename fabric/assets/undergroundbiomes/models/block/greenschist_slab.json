@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "undergroundbiomes:block/greenschist",
+    "top": "undergroundbiomes:block/greenschist",
+    "side": "undergroundbiomes:block/greenschist"
+  }
+}

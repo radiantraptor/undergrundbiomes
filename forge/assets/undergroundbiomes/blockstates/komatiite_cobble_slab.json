@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/komatiite_cobble_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/komatiite_cobble"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/komatiite_cobble_slab_top"
+    }
+  }
+}

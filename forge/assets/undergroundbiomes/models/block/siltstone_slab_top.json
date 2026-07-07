@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "undergroundbiomes:block/siltstone",
+    "top": "undergroundbiomes:block/siltstone",
+    "side": "undergroundbiomes:block/siltstone"
+  }
+}

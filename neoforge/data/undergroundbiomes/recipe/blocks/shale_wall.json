@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:shale"
+  },
+  "result": {
+    "id": "undergroundbiomes:shale_wall",
+    "count": 6
+  }
+}

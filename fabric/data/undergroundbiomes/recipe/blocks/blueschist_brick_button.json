@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:blueschist_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:blueschist_brick_button",
+    "count": 1
+  }
+}

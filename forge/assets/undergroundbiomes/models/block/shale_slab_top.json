@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "undergroundbiomes:block/shale",
+    "top": "undergroundbiomes:block/shale",
+    "side": "undergroundbiomes:block/shale"
+  }
+}

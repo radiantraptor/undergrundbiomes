@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:greywacke_smooth",
+  "result": {
+    "id": "undergroundbiomes:greywacke_smooth_stairs",
+    "count": 1
+  }
+}

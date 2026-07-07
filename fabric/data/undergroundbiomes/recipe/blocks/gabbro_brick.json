@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AA",
+    "AA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:gabbro"
+  },
+  "result": {
+    "id": "undergroundbiomes:gabbro_brick",
+    "count": 4
+  }
+}

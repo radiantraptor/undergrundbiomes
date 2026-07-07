@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "undergroundbiomes:block/andesite",
+    "top": "undergroundbiomes:block/andesite",
+    "side": "undergroundbiomes:block/andesite"
+  }
+}

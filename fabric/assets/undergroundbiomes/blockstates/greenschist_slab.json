@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/greenschist_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/greenschist"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/greenschist_slab_top"
+    }
+  }
+}

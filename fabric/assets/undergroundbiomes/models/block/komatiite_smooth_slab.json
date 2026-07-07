@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "undergroundbiomes:block/komatiite_smooth",
+      "side": "undergroundbiomes:block/komatiite_smooth_slab_side",
+      "top": "undergroundbiomes:block/komatiite_smooth"
+    }
+}

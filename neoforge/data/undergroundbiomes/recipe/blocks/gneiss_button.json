@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:gneiss"
+  ],
+  "result": {
+    "id": "undergroundbiomes:gneiss_button",
+    "count": 1
+  }
+}

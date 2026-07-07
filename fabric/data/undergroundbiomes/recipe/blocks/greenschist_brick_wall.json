@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:greenschist_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:greenschist_brick_wall",
+    "count": 6
+  }
+}

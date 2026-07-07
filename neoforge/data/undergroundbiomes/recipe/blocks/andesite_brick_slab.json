@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:andesite_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:andesite_brick_slab",
+    "count": 6
+  }
+}

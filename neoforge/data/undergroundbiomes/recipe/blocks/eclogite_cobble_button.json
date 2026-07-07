@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:eclogite_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:eclogite_cobble_button",
+    "count": 1
+  }
+}

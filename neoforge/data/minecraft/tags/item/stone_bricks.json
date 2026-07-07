@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "undergroundbiomes:andesite_brick",
+    "undergroundbiomes:basalt_brick",
+    "undergroundbiomes:black_granite_brick",
+    "undergroundbiomes:blueschist_brick",
+    "undergroundbiomes:chalk_brick",
+    "undergroundbiomes:chert_brick",
+    "undergroundbiomes:dacite_brick",
+    "undergroundbiomes:dolomite_brick",
+    "undergroundbiomes:eclogite_brick",
+    "undergroundbiomes:gabbro_brick",
+    "undergroundbiomes:gneiss_brick",
+    "undergroundbiomes:greenschist_brick",
+    "undergroundbiomes:greywacke_brick",
+    "undergroundbiomes:komatiite_brick",
+    "undergroundbiomes:limestone_brick",
+    "undergroundbiomes:marble_brick",
+    "undergroundbiomes:migmatite_brick",
+    "undergroundbiomes:quartzite_brick",
+    "undergroundbiomes:red_granite_brick",
+    "undergroundbiomes:rhyolite_brick",
+    "undergroundbiomes:shale_brick",
+    "undergroundbiomes:siltstone_brick",
+    "undergroundbiomes:soapstone_brick"
+  ]
+}

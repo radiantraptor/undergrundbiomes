@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:greywacke_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:greywacke_brick_button",
+    "count": 1
+  }
+}

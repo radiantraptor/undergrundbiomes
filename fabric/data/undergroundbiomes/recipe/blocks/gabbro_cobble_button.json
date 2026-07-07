@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:gabbro_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:gabbro_cobble_button",
+    "count": 1
+  }
+}

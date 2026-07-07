@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:greywacke_smooth"
+  },
+  "result": {
+    "id": "undergroundbiomes:greywacke_smooth_stairs",
+    "count": 4
+  }
+}

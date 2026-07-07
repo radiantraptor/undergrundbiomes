@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:chalk_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:chalk_cobble_button",
+    "count": 1
+  }
+}

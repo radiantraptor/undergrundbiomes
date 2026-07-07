@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "undergroundbiomes:block/gabbro_copper_ore" }
+        ]
+    }
+}

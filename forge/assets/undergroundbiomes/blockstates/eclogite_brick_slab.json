@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/eclogite_brick_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/eclogite_brick"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/eclogite_brick_slab_top"
+    }
+  }
+}

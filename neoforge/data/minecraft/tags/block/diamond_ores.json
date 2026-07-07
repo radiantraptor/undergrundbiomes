@@ -1,0 +1,27 @@
+{
+  "values": [
+    "undergroundbiomes:andesite_diamond_ore",
+    "undergroundbiomes:basalt_diamond_ore",
+    "undergroundbiomes:black_granite_diamond_ore",
+    "undergroundbiomes:blueschist_diamond_ore",
+    "undergroundbiomes:chalk_diamond_ore",
+    "undergroundbiomes:chert_diamond_ore",
+    "undergroundbiomes:dacite_diamond_ore",
+    "undergroundbiomes:dolomite_diamond_ore",
+    "undergroundbiomes:eclogite_diamond_ore",
+    "undergroundbiomes:gabbro_diamond_ore",
+    "undergroundbiomes:gneiss_diamond_ore",
+    "undergroundbiomes:greenschist_diamond_ore",
+    "undergroundbiomes:greywacke_diamond_ore",
+    "undergroundbiomes:komatiite_diamond_ore",
+    "undergroundbiomes:limestone_diamond_ore",
+    "undergroundbiomes:marble_diamond_ore",
+    "undergroundbiomes:migmatite_diamond_ore",
+    "undergroundbiomes:quartzite_diamond_ore",
+    "undergroundbiomes:red_granite_diamond_ore",
+    "undergroundbiomes:rhyolite_diamond_ore",
+    "undergroundbiomes:shale_diamond_ore",
+    "undergroundbiomes:siltstone_diamond_ore",
+    "undergroundbiomes:soapstone_diamond_ore"
+  ]
+}

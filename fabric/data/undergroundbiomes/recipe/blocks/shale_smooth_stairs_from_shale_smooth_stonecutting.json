@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:shale_smooth",
+  "result": {
+    "id": "undergroundbiomes:shale_smooth_stairs",
+    "count": 1
+  }
+}

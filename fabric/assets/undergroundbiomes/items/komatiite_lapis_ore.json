@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+  	"model": "undergroundbiomes:block/komatiite_lapis_ore"
+  }
+}

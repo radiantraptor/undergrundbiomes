@@ -1,0 +1,27 @@
+{
+  "values": [
+    "undergroundbiomes:andesite_redstone_ore",
+    "undergroundbiomes:basalt_redstone_ore",
+    "undergroundbiomes:black_granite_redstone_ore",
+    "undergroundbiomes:blueschist_redstone_ore",
+    "undergroundbiomes:chalk_redstone_ore",
+    "undergroundbiomes:chert_redstone_ore",
+    "undergroundbiomes:dacite_redstone_ore",
+    "undergroundbiomes:dolomite_redstone_ore",
+    "undergroundbiomes:eclogite_redstone_ore",
+    "undergroundbiomes:gabbro_redstone_ore",
+    "undergroundbiomes:gneiss_redstone_ore",
+    "undergroundbiomes:greenschist_redstone_ore",
+    "undergroundbiomes:greywacke_redstone_ore",
+    "undergroundbiomes:komatiite_redstone_ore",
+    "undergroundbiomes:limestone_redstone_ore",
+    "undergroundbiomes:marble_redstone_ore",
+    "undergroundbiomes:migmatite_redstone_ore",
+    "undergroundbiomes:quartzite_redstone_ore",
+    "undergroundbiomes:red_granite_redstone_ore",
+    "undergroundbiomes:rhyolite_redstone_ore",
+    "undergroundbiomes:shale_redstone_ore",
+    "undergroundbiomes:siltstone_redstone_ore",
+    "undergroundbiomes:soapstone_redstone_ore"
+  ]
+}

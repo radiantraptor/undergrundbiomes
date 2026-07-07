@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:komatiite_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:komatiite_cobble_button",
+    "count": 1
+  }
+}

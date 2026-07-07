@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "undergroundbiomes:block/siltstone_lapis_ore" }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:dolomite_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:dolomite_brick_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:migmatite"
+  },
+  "result": {
+    "id": "undergroundbiomes:migmatite_slab",
+    "count": 6
+  }
+}

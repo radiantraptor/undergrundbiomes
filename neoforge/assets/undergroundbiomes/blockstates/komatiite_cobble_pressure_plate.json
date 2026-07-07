@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "undergroundbiomes:block/komatiite_cobble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "undergroundbiomes:block/komatiite_cobble_pressure_plate_down"
+    }
+  }
+}

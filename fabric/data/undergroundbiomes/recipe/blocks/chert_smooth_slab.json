@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:chert_smooth"
+  },
+  "result": {
+    "id": "undergroundbiomes:chert_smooth_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "undergroundbiomes:block/greywacke_cobble",
+    "top": "undergroundbiomes:block/greywacke_cobble",
+    "side": "undergroundbiomes:block/greywacke_cobble"
+  }
+}

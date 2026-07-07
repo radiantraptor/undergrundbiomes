@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:soapstone",
+  "result": {
+    "id": "undergroundbiomes:soapstone_brick_stairs",
+    "count": 1
+  }
+}

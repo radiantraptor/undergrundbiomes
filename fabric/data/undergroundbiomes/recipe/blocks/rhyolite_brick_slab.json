@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:rhyolite_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:rhyolite_brick_slab",
+    "count": 6
+  }
+}

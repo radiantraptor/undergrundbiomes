@@ -1,0 +1,27 @@
+{
+  "values": [
+    "undergroundbiomes:andesite_iron_ore",
+    "undergroundbiomes:basalt_iron_ore",
+    "undergroundbiomes:black_granite_iron_ore",
+    "undergroundbiomes:blueschist_iron_ore",
+    "undergroundbiomes:chalk_iron_ore",
+    "undergroundbiomes:chert_iron_ore",
+    "undergroundbiomes:dacite_iron_ore",
+    "undergroundbiomes:dolomite_iron_ore",
+    "undergroundbiomes:eclogite_iron_ore",
+    "undergroundbiomes:gabbro_iron_ore",
+    "undergroundbiomes:gneiss_iron_ore",
+    "undergroundbiomes:greenschist_iron_ore",
+    "undergroundbiomes:greywacke_iron_ore",
+    "undergroundbiomes:komatiite_iron_ore",
+    "undergroundbiomes:limestone_iron_ore",
+    "undergroundbiomes:marble_iron_ore",
+    "undergroundbiomes:migmatite_iron_ore",
+    "undergroundbiomes:quartzite_iron_ore",
+    "undergroundbiomes:red_granite_iron_ore",
+    "undergroundbiomes:rhyolite_iron_ore",
+    "undergroundbiomes:shale_iron_ore",
+    "undergroundbiomes:siltstone_iron_ore",
+    "undergroundbiomes:soapstone_iron_ore"
+  ]
+}

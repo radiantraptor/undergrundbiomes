@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "undergroundbiomes:block/basalt_smooth",
+      "side": "undergroundbiomes:block/basalt_smooth_slab_side",
+      "top": "undergroundbiomes:block/basalt_smooth"
+    }
+} 

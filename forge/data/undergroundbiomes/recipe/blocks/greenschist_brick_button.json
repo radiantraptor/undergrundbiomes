@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:greenschist_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:greenschist_brick_button",
+    "count": 1
+  }
+}

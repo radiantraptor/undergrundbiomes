@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:greenschist_cobble"
+  },
+  "result": {
+    "id": "undergroundbiomes:greenschist_cobble_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/basalt_cobble_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/basalt_cobble"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/basalt_cobble_slab_top"
+    }
+  }
+}

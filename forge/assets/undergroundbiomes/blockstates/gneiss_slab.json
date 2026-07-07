@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/gneiss_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/gneiss"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/gneiss_slab_top"
+    }
+  }
+}

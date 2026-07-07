@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:dacite_cobble",
+  "result": {
+    "id": "undergroundbiomes:dacite_cobble_slab",
+    "count": 2
+  }
+}

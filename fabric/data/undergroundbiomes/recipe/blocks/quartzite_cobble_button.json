@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:quartzite_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:quartzite_cobble_button",
+    "count": 1
+  }
+}

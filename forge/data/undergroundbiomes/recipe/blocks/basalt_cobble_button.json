@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:basalt_cobble"
+  ],
+  "result": {
+    "id": "undergroundbiomes:basalt_cobble_button",
+    "count": 1
+  }
+}

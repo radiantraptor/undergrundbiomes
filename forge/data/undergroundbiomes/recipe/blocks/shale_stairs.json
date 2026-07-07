@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:shale"
+  },
+  "result": {
+    "id": "undergroundbiomes:shale_stairs",
+    "count": 4
+  }
+}

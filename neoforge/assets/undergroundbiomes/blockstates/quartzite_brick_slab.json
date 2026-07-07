@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/quartzite_brick_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/quartzite_brick"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/quartzite_brick_slab_top"
+    }
+  }
+}

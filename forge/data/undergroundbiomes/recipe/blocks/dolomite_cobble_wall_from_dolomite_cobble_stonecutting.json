@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:dolomite_cobble",
+  "result": {
+    "id": "undergroundbiomes:dolomite_cobble_wall",
+    "count": 1
+  }
+}

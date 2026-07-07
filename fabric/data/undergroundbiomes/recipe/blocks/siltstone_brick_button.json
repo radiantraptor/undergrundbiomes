@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:siltstone_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:siltstone_brick_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:quartzite_cobble"
+  },
+  "result": {
+    "id": "undergroundbiomes:quartzite_cobble_slab",
+    "count": 6
+  }
+}

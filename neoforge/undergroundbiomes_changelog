@@ -1,0 +1,56 @@
+26-2
+------
+- ported to 26.2
+- moved worldgen to data to have all stone replaced
+
+
+26-1
+------
+- ported to 26.1
+- initial version for fabric
+- initial version for neoforge
+
+
+1-21-6
+---------
+- ported to 1.21.6
+
+
+1-21-4
+---------
+- ported to 1.21.4
+- added smooth stones and smooth stone slabs and smooth stone stairs
+- added some newer minecraft biomes to the stones' distribution rules and changed the rules slightly
+
+
+1-21
+---------
+- ported to 1.21
+
+
+1-20-3
+---------
+- ported to 1.20.3
+
+
+1-20-2
+---------
+- ported to 1.20.2
+- configuration no longer works since the new structure of the world generation via tags
+
+
+1-18-2
+---------
+- ported to 1.18.2
+- different stone types now spawn in different biomes
+- added config options for the stone generation size, height ans spawn chance
+
+
+1-16-5
+---------
+- ported to 1.17.1
+
+
+1-16-5
+---------
+- initial version with the stones from the former UBC mod

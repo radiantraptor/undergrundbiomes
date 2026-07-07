@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/siltstone_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/siltstone"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/siltstone_slab_top"
+    }
+  }
+}

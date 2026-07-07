@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "undergroundbiomes:chert"
+  ],
+  "result": {
+    "id": "undergroundbiomes:chert_button",
+    "count": 1
+  }
+}

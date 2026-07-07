@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "undergroundbiomes:block/quartzite_cobble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "undergroundbiomes:block/quartzite_cobble_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:gabbro",
+  "result": {
+    "id": "undergroundbiomes:gabbro_stairs",
+    "count": 1
+  }
+}

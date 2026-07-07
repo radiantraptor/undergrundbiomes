@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/shale_cobble_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/shale_cobble"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/shale_cobble_slab_top"
+    }
+  }
+}

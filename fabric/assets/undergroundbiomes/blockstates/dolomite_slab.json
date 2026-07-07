@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/dolomite_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/dolomite"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/dolomite_slab_top"
+    }
+  }
+}

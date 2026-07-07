@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:marble_brick"
+  },
+  "result": {
+    "id": "undergroundbiomes:marble_brick_stairs",
+    "count": 4
+  }
+}

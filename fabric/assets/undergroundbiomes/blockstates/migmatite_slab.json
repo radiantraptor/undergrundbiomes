@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/migmatite_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/migmatite"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/migmatite_slab_top"
+    }
+  }
+}

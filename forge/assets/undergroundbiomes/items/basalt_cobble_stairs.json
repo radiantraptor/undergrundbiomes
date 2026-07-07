@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+  	"model": "undergroundbiomes:block/basalt_cobble_stairs"
+  }
+}

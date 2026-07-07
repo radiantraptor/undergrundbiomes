@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "undergroundbiomes",
+  "version": "26-2",
+
+  "name": "UndergroundBiomes",
+  "description": "Replacement for the glorious Undeground Biomes Constructs mod",
+  "authors": [
+    "raptor"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GNU GPLv3",
+  "icon": "assets/undergroundbiomes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.raptor.undergroundbiomes_fabric.Main"
+    ]
+  },
+  "mixins": [
+    "undergroundbiomes.mixins.json"
+  ],
+
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

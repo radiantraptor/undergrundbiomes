@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AA",
+    "AA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:limestone"
+  },
+  "result": {
+    "id": "undergroundbiomes:limestone_brick",
+    "count": 4
+  }
+}

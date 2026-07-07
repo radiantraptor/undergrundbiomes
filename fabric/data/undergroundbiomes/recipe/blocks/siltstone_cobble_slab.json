@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:siltstone_cobble"
+  },
+  "result": {
+    "id": "undergroundbiomes:siltstone_cobble_slab",
+    "count": 6
+  }
+}

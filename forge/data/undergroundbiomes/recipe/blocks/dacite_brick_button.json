@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:dacite_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:dacite_brick_button",
+    "count": 1
+  }
+}

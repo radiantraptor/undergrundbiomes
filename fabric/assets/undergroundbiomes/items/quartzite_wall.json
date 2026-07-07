@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+  	"model": "undergroundbiomes:block/quartzite_wall_inventory"
+  }
+}

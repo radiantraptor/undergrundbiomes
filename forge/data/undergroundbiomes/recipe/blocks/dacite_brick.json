@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AA",
+    "AA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:dacite"
+  },
+  "result": {
+    "id": "undergroundbiomes:dacite_brick",
+    "count": 4
+  }
+}

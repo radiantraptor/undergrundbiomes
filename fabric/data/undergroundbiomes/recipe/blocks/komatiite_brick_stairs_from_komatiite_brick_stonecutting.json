@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:komatiite_brick",
+  "result": {
+    "id": "undergroundbiomes:komatiite_brick_stairs",
+    "count": 1
+  }
+}

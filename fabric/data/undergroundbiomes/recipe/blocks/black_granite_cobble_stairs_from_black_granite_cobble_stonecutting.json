@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:black_granite_cobble",
+  "result": {
+    "id": "undergroundbiomes:black_granite_cobble_stairs",
+    "count": 1
+  }
+}

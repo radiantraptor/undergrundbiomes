@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:eclogite_smooth"
+  },
+  "result": {
+    "id": "undergroundbiomes:eclogite_smooth_stairs",
+    "count": 4
+  }
+}

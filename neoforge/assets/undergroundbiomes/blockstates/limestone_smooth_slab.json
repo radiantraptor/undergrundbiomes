@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/limestone_smooth_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/limestone_smooth_slab_double"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/limestone_smooth_slab_top"
+    }
+  }
+}

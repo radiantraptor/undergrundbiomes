@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "undergroundbiomes:block/limestone_copper_ore" }
+        ]
+    }
+}

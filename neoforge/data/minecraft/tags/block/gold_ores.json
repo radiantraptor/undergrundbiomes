@@ -1,0 +1,27 @@
+{
+  "values": [
+    "undergroundbiomes:andesite_gold_ore",
+    "undergroundbiomes:basalt_gold_ore",
+    "undergroundbiomes:black_granite_gold_ore",
+    "undergroundbiomes:blueschist_gold_ore",
+    "undergroundbiomes:chalk_gold_ore",
+    "undergroundbiomes:chert_gold_ore",
+    "undergroundbiomes:dacite_gold_ore",
+    "undergroundbiomes:dolomite_gold_ore",
+    "undergroundbiomes:eclogite_gold_ore",
+    "undergroundbiomes:gabbro_gold_ore",
+    "undergroundbiomes:gneiss_gold_ore",
+    "undergroundbiomes:greenschist_gold_ore",
+    "undergroundbiomes:greywacke_gold_ore",
+    "undergroundbiomes:komatiite_gold_ore",
+    "undergroundbiomes:limestone_gold_ore",
+    "undergroundbiomes:marble_gold_ore",
+    "undergroundbiomes:migmatite_gold_ore",
+    "undergroundbiomes:quartzite_gold_ore",
+    "undergroundbiomes:red_granite_gold_ore",
+    "undergroundbiomes:rhyolite_gold_ore",
+    "undergroundbiomes:shale_gold_ore",
+    "undergroundbiomes:siltstone_gold_ore",
+    "undergroundbiomes:soapstone_gold_ore"
+  ]
+}

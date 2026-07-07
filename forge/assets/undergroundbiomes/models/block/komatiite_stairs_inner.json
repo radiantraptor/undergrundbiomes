@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "undergroundbiomes:block/komatiite",
+        "top": "undergroundbiomes:block/komatiite",
+        "side": "undergroundbiomes:block/komatiite"
+    }
+} 

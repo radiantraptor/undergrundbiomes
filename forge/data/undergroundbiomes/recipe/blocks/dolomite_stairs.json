@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:dolomite"
+  },
+  "result": {
+    "id": "undergroundbiomes:dolomite_stairs",
+    "count": 4
+  }
+}

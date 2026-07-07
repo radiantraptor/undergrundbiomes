@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "undergroundbiomes:block/gabbro_smooth",
+      "side": "undergroundbiomes:block/gabbro_smooth_slab_side",
+      "top": "undergroundbiomes:block/gabbro_smooth"
+    }
+} 

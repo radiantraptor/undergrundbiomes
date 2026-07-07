@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:limestone",
+  "result": {
+    "id": "undergroundbiomes:limestone_brick_slab",
+    "count": 2
+  }
+}

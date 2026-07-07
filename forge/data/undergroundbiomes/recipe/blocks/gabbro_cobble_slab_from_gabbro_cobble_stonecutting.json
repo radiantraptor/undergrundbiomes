@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:gabbro_cobble",
+  "result": {
+    "id": "undergroundbiomes:gabbro_cobble_slab",
+    "count": 2
+  }
+}

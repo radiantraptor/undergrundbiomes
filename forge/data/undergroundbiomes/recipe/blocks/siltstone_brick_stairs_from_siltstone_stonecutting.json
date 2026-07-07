@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:siltstone",
+  "result": {
+    "id": "undergroundbiomes:siltstone_brick_stairs",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/chert_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/chert"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/chert_slab_top"
+    }
+  }
+}

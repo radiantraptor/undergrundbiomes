@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AA",
+    "AA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:migmatite"
+  },
+  "result": {
+    "id": "undergroundbiomes:migmatite_brick",
+    "count": 4
+  }
+}

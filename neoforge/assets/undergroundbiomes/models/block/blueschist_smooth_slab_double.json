@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "undergroundbiomes:block/blueschist_smooth",
+      "side": "undergroundbiomes:block/blueschist_smooth_slab_side"
+    }
+} 

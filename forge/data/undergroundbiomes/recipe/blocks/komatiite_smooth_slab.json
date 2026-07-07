@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:komatiite_smooth"
+  },
+  "result": {
+    "id": "undergroundbiomes:komatiite_smooth_slab",
+    "count": 6
+  }
+}

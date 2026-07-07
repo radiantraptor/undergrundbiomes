@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "undergroundbiomes:block/dacite_slab"
+    },
+    "type=double": {
+      "model": "undergroundbiomes:block/dacite"
+    },
+    "type=top": {
+      "model": "undergroundbiomes:block/dacite_slab_top"
+    }
+  }
+}

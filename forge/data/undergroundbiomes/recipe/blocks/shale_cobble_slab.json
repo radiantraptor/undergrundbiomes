@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:shale_cobble"
+  },
+  "result": {
+    "id": "undergroundbiomes:shale_cobble_slab",
+    "count": 6
+  }
+}

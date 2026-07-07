@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+      "undergroundbiomes:dolomite_brick"
+  ],
+  "result": {
+    "id": "undergroundbiomes:dolomite_brick_button",
+    "count": 1
+  }
+}

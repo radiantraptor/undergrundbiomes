@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+   ],
+  "key": {
+    "A": "undergroundbiomes:dacite_smooth"
+  },
+  "result": {
+    "id": "undergroundbiomes:dacite_smooth_stairs",
+    "count": 4
+  }
+}

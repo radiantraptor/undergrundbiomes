@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "particle": "undergroundbiomes:block/dolomite_cobble",
+    "wall": "undergroundbiomes:block/dolomite_cobble"
+  }
+}

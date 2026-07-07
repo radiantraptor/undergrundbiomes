@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:limestone_cobble",
+  "result": {
+    "id": "undergroundbiomes:limestone_cobble_stairs",
+    "count": 1
+  }
+}

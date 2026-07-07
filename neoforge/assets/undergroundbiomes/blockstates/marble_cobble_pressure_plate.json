@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "undergroundbiomes:block/marble_cobble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "undergroundbiomes:block/marble_cobble_pressure_plate_down"
+    }
+  }
+}

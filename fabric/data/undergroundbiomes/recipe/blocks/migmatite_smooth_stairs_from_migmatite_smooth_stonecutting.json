@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "undergroundbiomes:migmatite_smooth",
+  "result": {
+    "id": "undergroundbiomes:migmatite_smooth_stairs",
+    "count": 1
+  }
+}
