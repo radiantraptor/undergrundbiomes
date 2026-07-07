@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "undergroundbiomes:block/chert",
-    "top": "undergroundbiomes:block/chert",
-    "side": "undergroundbiomes:block/chert"
-  }
-}

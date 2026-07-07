@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:rhyolite_brick",
-  "result": {
-    "id": "undergroundbiomes:rhyolite_brick_slab",
-    "count": 2
-  }
-}

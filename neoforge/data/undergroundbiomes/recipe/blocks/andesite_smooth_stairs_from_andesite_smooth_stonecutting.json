@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:andesite_smooth",
-  "result": {
-    "id": "undergroundbiomes:andesite_smooth_stairs",
-    "count": 1
-  }
-}

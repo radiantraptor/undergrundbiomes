@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "undergroundbiomes:block/shale_cobble",
-    "top": "undergroundbiomes:block/shale_cobble",
-    "side": "undergroundbiomes:block/shale_cobble"
-  }
-}

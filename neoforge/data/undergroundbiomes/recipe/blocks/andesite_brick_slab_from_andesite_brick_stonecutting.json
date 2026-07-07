@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:andesite_brick",
-  "result": {
-    "id": "undergroundbiomes:andesite_brick_slab",
-    "count": 2
-  }
-}

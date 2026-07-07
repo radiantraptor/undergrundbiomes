@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:siltstone_cobble",
-  "result": {
-    "id": "minecraft:cobblestone",
-    "count": 1
-  }
-}

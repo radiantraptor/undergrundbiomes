@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "experience": 1.0,
-  "group": "diamond",
-  "ingredient": "undergroundbiomes:siltstone_diamond_ore",
-  "result": {
-    "id": "minecraft:diamond"
-  }
-}

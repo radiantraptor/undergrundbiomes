@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:dacite",
-  "result": {
-    "id": "undergroundbiomes:dacite_wall",
-    "count": 1
-  }
-}

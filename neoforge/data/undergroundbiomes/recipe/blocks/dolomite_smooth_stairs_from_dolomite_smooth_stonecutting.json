@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:dolomite_smooth",
-  "result": {
-    "id": "undergroundbiomes:dolomite_smooth_stairs",
-    "count": 1
-  }
-}

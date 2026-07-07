@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "experience": 1.0,
-  "group": "gold_ingot",
-  "ingredient": "undergroundbiomes:siltstone_gold_ore",
-  "result": {
-    "id": "minecraft:gold_ingot"
-  }
-}

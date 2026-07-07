@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "undergroundbiomes:block/marble_brick",
-        "top": "undergroundbiomes:block/marble_brick",
-        "side": "undergroundbiomes:block/marble_brick"
-    }
-} 

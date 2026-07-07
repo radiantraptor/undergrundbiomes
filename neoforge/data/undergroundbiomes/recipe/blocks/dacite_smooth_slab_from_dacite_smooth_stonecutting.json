@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:dacite_smooth",
-  "result": {
-    "id": "undergroundbiomes:dacite_smooth_slab",
-   "count": 2
-  }
-}

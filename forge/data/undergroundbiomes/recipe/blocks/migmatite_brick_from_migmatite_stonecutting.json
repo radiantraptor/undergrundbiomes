@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:migmatite",
-  "result": {
-    "id": "undergroundbiomes:migmatite_brick",
-    "count": 1
-  }
-}

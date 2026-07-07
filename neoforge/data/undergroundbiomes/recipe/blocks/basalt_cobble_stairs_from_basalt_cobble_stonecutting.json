@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:basalt_cobble",
-  "result": {
-    "id": "undergroundbiomes:basalt_cobble_stairs",
-    "count": 1
-  }
-}

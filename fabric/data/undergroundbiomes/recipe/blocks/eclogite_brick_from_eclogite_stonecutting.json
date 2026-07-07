@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:eclogite",
-  "result": {
-    "id": "undergroundbiomes:eclogite_brick",
-    "count": 1
-  }
-}

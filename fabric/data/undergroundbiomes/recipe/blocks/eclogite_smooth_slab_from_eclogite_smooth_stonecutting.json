@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:eclogite_smooth",
-  "result": {
-    "id": "undergroundbiomes:eclogite_smooth_slab",
-   "count": 2
-  }
-}

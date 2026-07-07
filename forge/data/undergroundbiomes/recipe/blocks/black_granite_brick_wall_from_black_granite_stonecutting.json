@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:black_granite",
-  "result": {
-    "id": "undergroundbiomes:black_granite_brick_wall",
-   "count": 1
-  }
-}

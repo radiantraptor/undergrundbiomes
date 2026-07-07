@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_wall_post",
-  "textures": {
-    "particle": "undergroundbiomes:block/komatiite_brick",
-    "wall": "undergroundbiomes:block/komatiite_brick"
-  }
-}

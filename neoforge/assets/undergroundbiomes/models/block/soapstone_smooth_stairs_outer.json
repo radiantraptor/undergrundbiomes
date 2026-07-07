@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "undergroundbiomes:block/soapstone_smooth",
-        "top": "undergroundbiomes:block/soapstone_smooth",
-        "side": "undergroundbiomes:block/soapstone_smooth"
-    }
-} 

@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "undergroundbiomes:block/blueschist_brick",
-        "top": "undergroundbiomes:block/blueschist_brick",
-        "side": "undergroundbiomes:block/blueschist_brick"
-    }
-} 

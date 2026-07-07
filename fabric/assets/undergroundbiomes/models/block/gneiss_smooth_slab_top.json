@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "undergroundbiomes:block/gneiss_smooth",
-      "side": "undergroundbiomes:block/gneiss_smooth_slab_side",
-      "top": "undergroundbiomes:block/gneiss_smooth"
-    }
-} 

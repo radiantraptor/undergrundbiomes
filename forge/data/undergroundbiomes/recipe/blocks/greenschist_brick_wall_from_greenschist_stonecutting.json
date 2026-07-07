@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:greenschist",
-  "result": {
-    "id": "undergroundbiomes:greenschist_brick_wall",
-   "count": 1
-  }
-}

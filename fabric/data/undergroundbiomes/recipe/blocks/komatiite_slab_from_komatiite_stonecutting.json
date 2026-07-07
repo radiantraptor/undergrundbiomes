@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:komatiite",
-  "result": {
-    "id": "undergroundbiomes:komatiite_slab",
-    "count": 2
-  }
-}

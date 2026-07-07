@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:blueschist_smooth",
-  "result": {
-    "id": "undergroundbiomes:blueschist_smooth_slab",
-   "count": 2
-  }
-}

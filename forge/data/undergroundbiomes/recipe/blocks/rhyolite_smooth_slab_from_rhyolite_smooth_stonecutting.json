@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:rhyolite_smooth",
-  "result": {
-    "id": "undergroundbiomes:rhyolite_smooth_slab",
-   "count": 2
-  }
-}

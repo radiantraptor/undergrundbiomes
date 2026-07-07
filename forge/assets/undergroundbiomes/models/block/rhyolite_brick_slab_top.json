@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "undergroundbiomes:block/rhyolite_brick",
-    "top": "undergroundbiomes:block/rhyolite_brick",
-    "side": "undergroundbiomes:block/rhyolite_brick"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:eclogite_brick",
-  "result": {
-    "id": "undergroundbiomes:eclogite_brick_stairs",
-    "count": 1
-  }
-}

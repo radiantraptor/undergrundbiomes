@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:chert",
-  "result": {
-    "id": "undergroundbiomes:chert_brick",
-    "count": 1
-  }
-}

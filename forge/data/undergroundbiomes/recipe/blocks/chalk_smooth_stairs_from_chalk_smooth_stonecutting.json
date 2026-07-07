@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:chalk_smooth",
-  "result": {
-    "id": "undergroundbiomes:chalk_smooth_stairs",
-    "count": 1
-  }
-}

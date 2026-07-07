@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:blueschist_cobble",
-  "result": {
-    "id": "undergroundbiomes:blueschist_cobble_stairs",
-    "count": 1
-  }
-}

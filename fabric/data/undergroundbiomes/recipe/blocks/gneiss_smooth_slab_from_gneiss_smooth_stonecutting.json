@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:gneiss_smooth",
-  "result": {
-    "id": "undergroundbiomes:gneiss_smooth_slab",
-   "count": 2
-  }
-}

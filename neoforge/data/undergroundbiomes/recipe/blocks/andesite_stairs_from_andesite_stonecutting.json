@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:andesite",
-  "result": {
-    "id": "undergroundbiomes:andesite_stairs",
-    "count": 1
-  }
-}

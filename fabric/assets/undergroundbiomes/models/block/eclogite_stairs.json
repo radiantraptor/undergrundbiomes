@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "undergroundbiomes:block/eclogite",
-        "top": "undergroundbiomes:block/eclogite",
-        "side": "undergroundbiomes:block/eclogite"
-    }
-} 

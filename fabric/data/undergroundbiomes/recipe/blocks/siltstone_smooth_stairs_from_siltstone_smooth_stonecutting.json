@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:siltstone_smooth",
-  "result": {
-    "id": "undergroundbiomes:siltstone_smooth_stairs",
-    "count": 1
-  }
-}

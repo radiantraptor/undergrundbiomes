@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-    "textures": {
-      "end": "undergroundbiomes:block/chert_smooth",
-      "side": "undergroundbiomes:block/chert_smooth_slab_side"
-    }
-} 

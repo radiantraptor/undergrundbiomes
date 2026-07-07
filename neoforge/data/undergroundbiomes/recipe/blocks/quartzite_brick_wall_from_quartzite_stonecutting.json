@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:quartzite",
-  "result": {
-    "id": "undergroundbiomes:quartzite_brick_wall",
-   "count": 1
-  }
-}

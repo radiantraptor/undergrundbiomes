@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:soapstone_cobble",
-  "result": {
-    "id": "undergroundbiomes:soapstone_cobble_stairs",
-    "count": 1
-  }
-}

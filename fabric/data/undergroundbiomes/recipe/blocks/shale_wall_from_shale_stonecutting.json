@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:shale",
-  "result": {
-    "id": "undergroundbiomes:shale_wall",
-    "count": 1
-  }
-}

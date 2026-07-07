@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "undergroundbiomes:soapstone_smooth",
-  "result": {
-    "id": "undergroundbiomes:soapstone_smooth_slab",
-   "count": 2
-  }
-}

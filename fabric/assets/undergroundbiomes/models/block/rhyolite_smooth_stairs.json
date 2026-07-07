@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "undergroundbiomes:block/rhyolite_smooth",
-        "top": "undergroundbiomes:block/rhyolite_smooth",
-        "side": "undergroundbiomes:block/rhyolite_smooth"
-    }
-} 
